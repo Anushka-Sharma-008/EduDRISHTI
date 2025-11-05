@@ -13,7 +13,7 @@ st.set_page_config(
 @st.cache_data
 def load_data():
     """Loads and preprocesses the final ML-ready data."""
-    df = pd.read_csv(r'data\NEET_Master_ML_Data.csv')
+    df = pd.read_csv('data/NEET_Master_ML_Data.csv')
     return df
 
 df_master = load_data()
@@ -162,4 +162,5 @@ if page == "1. National Overview":
 elif page == "2. Regional Drilldown":
     page_regional_drilldown()
 elif page == "3. ML Anomaly Results":
+
     page_anomaly_detection()
