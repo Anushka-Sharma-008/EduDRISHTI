@@ -117,7 +117,7 @@ This project is the basis for the following academic work, demonstrating the met
   - **Title:** A Data Science Approach to Identifying Statistical Anomalies and Inequality in High-Stakes National Examinations
   - **Status:** Submitted
   - **Author:** Anushka Sharma, Department of Artificial Intelligence and Data Science, Dr. Akhilesh Das Gupta Institute of Professional Studies, Delhi, India
-  - **Link:** (I will update this link once the paper gets published)
+  - **Link:** [Click to visit the publication](https://ijsci.com/index.php/home/article/view/865)
 
 ## 🙋‍♀️ Author
 **Anushka Sharma**  
